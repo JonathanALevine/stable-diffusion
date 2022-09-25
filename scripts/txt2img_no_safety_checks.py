@@ -26,6 +26,7 @@ from transformers import AutoFeatureExtractor
 # safety_model_id = "CompVis/stable-diffusion-safety-checker"
 # safety_feature_extractor = AutoFeatureExtractor.from_pretrained(safety_model_id)
 # safety_checker = StableDiffusionSafetyChecker.from_pretrained(safety_model_id)
+# this is a test
 
 
 def chunk(it, size):
